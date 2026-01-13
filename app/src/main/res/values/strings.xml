@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RobinSignup.</string>
+    <string name="ansam">ansam</string>
+    <string name="already_have_an_account_sign_in">ALREADY HAVE AN ACCOUNT? SIGN IN</string>
+</resources>
